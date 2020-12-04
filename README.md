@@ -6,4 +6,3 @@ In the project directory, you can run: `yarn start`
 
 `yarn build` - builds the app for production to the `build` folder
 
-new repo - test2
